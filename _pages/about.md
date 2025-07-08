@@ -26,7 +26,7 @@ I look forward to connecting with you and am excited about the prospect of colle
 
 # 📖 Educations
 - *2023.09 - 2026.06 (now)*, Master's Degree, University of Electronic Science and Technology of China,  Computer Science.
-- *2019.09-2023.06*, Bachelor‘s Degree, Southwest University (China): , Software Engineering
+- *2019.09 - 2023.06*, Bachelor‘s Degree, Southwest University (China), Software Engineering
 
 # 💻 Internships
 
