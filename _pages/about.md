@@ -35,18 +35,6 @@ I look forward to connecting with you and am excited about the prospect of colle
 - *2024.03 - Now*, University of Macau, Research Intern.
 - *2022.09 - Now*, Chongqing University, Research Intern.
 
-#  📑 Reviewers
-- NeurIPS
-- ICML
-- ICLR
-- ICASSP
-- AISTATS
-- IEEE Transactions on Knowledge and Data Engineering
-- ACM Transactions on Intelligent Systems and Technology
-- IEEE Access
-- Discover Artificial Intelligence
-
-
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -64,3 +52,19 @@ I look forward to connecting with you and am excited about the prospect of colle
 - [Tianxiang Zhan dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 
+#  📑 Reviewers
+- NeurIPS
+- ICML
+- ICLR
+- ICASSP
+- AISTATS
+- IEEE Transactions on Knowledge and Data Engineering
+- ACM Transactions on Intelligent Systems and Technology
+- IEEE Access
+- Discover Artificial Intelligence
+
+# 🧑‍🏫 Mentor Roles
+- Jingyou Wu
+- Juntao Xu
+- Mengyu Yang
+- Duozi Lin
