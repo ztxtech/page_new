@@ -15,7 +15,6 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<!-- <span class='anchor' id='about-me'></span> -->
 
 # 😊 About Me
 
@@ -25,10 +24,28 @@ I am actively **seeking a fully-funded Ph.D. position in Computer Science**, whe
 
 I look forward to connecting with you and am excited about the prospect of collectively advancing the field of science.
 
+# 📖 Educations
+- *2023.09 - 2026.06 (now)*, Master's Degree, University of Electronic Science and Technology of China,  Computer Science.
+- *2019.09-2023.06*, Bachelor‘s Degree, Southwest University (China): , Software Engineering
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Tianxiang Zhan dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Tianxiang Zhan dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 💻 Internships
+
+- *2024.10 - Now*, Griffith University, Research Intern.
+- *2024.04 - Now*, PyPOTS, Community Scholars.
+- *2024.03 - Now*, University of Macau, Research Intern.
+- *2022.09 - Now*, Chongqing University, Research Intern.
+
+#  📑 Reviewers
+- NeurIPS
+- ICML
+- ICLR
+- ICASSP
+- AISTATS
+- IEEE Transactions on Knowledge and Data Engineering
+- ACM Transactions on Intelligent Systems and Technology
+- IEEE Access
+- Discover Artificial Intelligence
+
 
 # 📝 Publications 
 
@@ -46,17 +63,4 @@ I look forward to connecting with you and am excited about the prospect of colle
 
 - [Tianxiang Zhan dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Tianxiang Zhan dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Tianxiang Zhan dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Tianxiang Zhan dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Tianxiang Zhan dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Tianxiang Zhan dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Tianxiang Zhan dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
