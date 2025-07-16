@@ -37,21 +37,16 @@ I look forward to connecting with you and am excited about the prospect of colle
 
 # 📝 Publications 
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">IEEE TFS</div>
-      <img src='images/covers/2023-tfs.png' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-    [Differential Convolutional Fuzzy Time Series Forecasting](https://ieeexplore.ieee.org/abstract/document/10234022)
 
-    **Tianxiang Zhan**, Yuanpeng He, Zhen Li, Yong Deng
-  </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TFS 2023</div><img src='images/covers/2023-tfs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Differential Convolutional Fuzzy Time Series Forecasting](https://ieeexplore.ieee.org/abstract/document/10234022)
+**Tianxiang Zhan**, Yuanpeng He, Zhen Li, Yong Deng
+</div>
 </div>
 
-- [Tianxiang Zhan dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<!-- - [Tianxiang Zhan dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 
 #  📑 Reviewers
