@@ -41,8 +41,8 @@ I look forward to connecting with you and am excited about the prospect of colle
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TFS 2023</div><img src='images/covers/2023-tfs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Differential Convolutional Fuzzy Time Series Forecasting](https://ieeexplore.ieee.org/abstract/document/10234022)
-**Tianxiang Zhan**, Yuanpeng He, Zhen Li, Yong Deng
+Differential convolutional fuzzy time series forecasting. IEEE Transactions on Fuzzy Systems, 32(3), 831-845. 
+**Tianxiang Zhan**, Yuanpeng He, Yong Deng, Zhen Li (2023).  [Link](https://ieeexplore.ieee.org/abstract/document/10234022)
 </div>
 </div>
 
