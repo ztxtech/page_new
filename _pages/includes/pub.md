@@ -8,6 +8,7 @@
 Zhan, Tianxiang, Yuanpeng He, Yong Deng, Zhen Li, Wenjie Du, and Qingsong Wen. "Time evidence fusion network: Multi-source view in long-term time series forecasting." IEEE Transactions on Pattern Analysis and Machine Intelligence (2025).
 
 [[Link]](https://ieeexplore.ieee.org/abstract/document/11120455/)
+[[Code]](https://github.com/ztxtech/Time-Evidence-Fusion-Network)
 
 </div>
 </div>
@@ -18,16 +19,7 @@ Zhan, Tianxiang, Yuanpeng He, Yong Deng, Zhen Li, Wenjie Du, and Qingsong Wen. "
 Zhan, Tianxiang, Ming Jin, Yuanpeng He, Yuxuan Liang, Yong Deng, and Shirui Pan. "Continuous Evolution Pool: Taming Recurring Concept Drift in Online Time Series Forecasting." arXiv preprint arXiv:2506.14790 (2025).
 
 [[Link]](https://arxiv.org/abs/2506.14790)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COAM 2025</div><img src='images/covers/2025-coam.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Zhan, Tianxiang, Qianzhou Zhou, Yuanpeng He, and Yong Deng. "Transfer Graph in the Context of Evidence Theory." Computational and Applied Mathematics 44, no. 7 (2025): 345.
-
-[[Link]](https://link.springer.com/article/10.1007/s40314-025-03293-w/)
+[[Code]](https://github.com/ztxtech/cep_ts)
 
 </div>
 </div>
@@ -64,6 +56,7 @@ Zhan, Tianxiang, Yuanpeng He, Yong Deng, and Zhen Li. "Differential convolutiona
 
 ## 😁 Other Publications
 
+- Zhan, Tianxiang, Qianzhou Zhou, Yuanpeng He, and Yong Deng. "Transfer Graph in the Context of Evidence Theory." Computational and Applied Mathematics 44, no. 7 (2025): 345. [[Link]](https://link.springer.com/article/10.1007/s40314-025-03293-w/)[[Code]](https://github.com/ztxtech/tgoet)
 - Chen, Xingyuan, Tianxiang Zhan, Guohui Zhou, and Yong Deng. "Variance of belief information." Applied Mathematical Modelling 146 (2025): 116148. [[Link]](https://www.sciencedirect.com/science/article/pii/S0307904X25002239/)
 - Liu, Ruijie, Tianxiang Zhan, Zhen Li, and Yong Deng. "Learnable wsn deployment of evidential collaborative sensing model." IEEE Sensors Journal (2025). [[Link]](https://ieeexplore.ieee.org/abstract/document/10981520/)
 - He, Yuanpeng, Lijian Li, Tianxiang Zhan, Chi-Man Pun, Wenpin Jiao, and Zhi Jin. "Co-evidential fusion with information volume for semi-supervised medical image segmentation." Pattern Recognition 166 (2025): 111639.
