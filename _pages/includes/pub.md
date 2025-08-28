@@ -11,7 +11,7 @@
 
 IEEE Transactions on Pattern Analysis and Machine Intelligence (2025).
 
-[![Code](https://img.shields.io/badge/ztxtech-Time--Evidence--Fusion--Network-%23121011?logo=github&logoColor=white)](https://github.com/ztxtech/Time-Evidence-Fusion-Network)
+![Static Badge](https://img.shields.io/badge/CCF_A-EF413D) [![Code](https://img.shields.io/badge/ztxtech-Time--Evidence--Fusion--Network-%23121011?logo=github&logoColor=white)](https://github.com/ztxtech/Time-Evidence-Fusion-Network)
 
 </div>
 </div>
@@ -25,7 +25,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (2025).
 
 arXiv preprint arXiv:2506.14790 (2025).
 
-[![Code](https://img.shields.io/badge/ztxtech-cep__ts-%23121011?logo=github&logoColor=white)](https://github.com/ztxtech/cep_ts)
+[![arXiv](https://img.shields.io/badge/cs.LG-2506.14790-b31b1b?style=flat&logo=arxiv&logoColor=red)](https://arxiv.org/abs/2506.14790) [![Code](https://img.shields.io/badge/ztxtech-cep__ts-%23121011?logo=github&logoColor=white)](https://github.com/ztxtech/cep_ts)
 
 </div>
 </div>
@@ -38,6 +38,8 @@ arXiv preprint arXiv:2506.14790 (2025).
 Yuanpeng He, Lijian Li, **Tianxiang Zhan**, Chi-Man Pun, Wenpin Jiao, and Zhi Jin.
 
 In Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 2, pp. 908-919. 2025.
+
+![Static Badge](https://img.shields.io/badge/CCF_A-EF413D)
 
 </div>
 </div>
@@ -68,14 +70,15 @@ IEEE Transactions on Fuzzy Systems 32, no. 3 (2023): 831-845.
 
 ## 😁 Other Publications
 
-- `Computational and Applied Mathematics 2025` [Transfer Graph in the Context of Evidence Theory](https://link.springer.com/article/10.1007/s40314-025-03293-w/), **Tianxiang Zhan**, Qianli Zhou, Yuanpeng He, and Yong Deng. [![Code](https://img.shields.io/badge/ztxtech-tgoet-%23121011?logo=github&logoColor=white)](https://github.com/ztxtech/tgoet)
-- `Applied Mathematical Modelling 2025` [Variance of belief information](https://www.sciencedirect.com/science/article/pii/S0307904X25002239/), Xingyuan Chen, **Tianxiang Zhan**, Guohui Zhou, and Yong Deng.
-- `IEEE Sensors Journal 2025` [Learnable wsn deployment of evidential collaborative sensing model](https://ieeexplore.ieee.org/abstract/document/10981520/), Ruijie Liu, **Tianxiang Zhan**, Zhen Li, and Yong Deng.
-- `Pattern Recognition 2025` [Co-evidential fusion with information volume for semi-supervised medical image segmentation](), Yuanpeng He, Lijian Li, **Tianxiang Zhan**, Chi-Man Pun, Wenpin Jiao, and Zhi Jin.
-- `Pattern Recognition 2024` [Residual feature-reutilization inception network](https://www.sciencedirect.com/science/article/pii/S0031320324001900/), Yuanpeng He, Wenjie Song, Lijian Li, **Tianxiang Zhan**, and Wenpin Jiao.
-- `Pattern Recognition 2024` [A novel weighted approach for time series forecasting based on visibility graph](https://www.sciencedirect.com/science/article/pii/S0031320324004710/), **Tianxiang Zhan**, and Fuyuan Xiao.
-- `ICASSP 2024` [Generalized uncertainty-based evidential fusion with hybrid multi-head attention for weak-supervised temporal action localization](https://ieeexplore.ieee.org/abstract/document/10446799/), Yuanpeng He, Lijian Li, **Tianxiang Zhan**, Wenpin Jiao, and Chi-Man Pun.
-- `International Journal of Intelligent Systems 2021` [A fast evidential approach for stock forecasting](https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22598/), **Tianxiang Zhan**, and Fuyuan Xiao.
+- ![Static Badge](https://img.shields.io/badge/Computational_and_Applied_Mathematics_2025-FED000) [Transfer Graph in the Context of Evidence Theory](https://link.springer.com/article/10.1007/s40314-025-03293-w/), **Tianxiang Zhan**, Qianli Zhou, Yuanpeng He, and Yong Deng. [![Code](https://img.shields.io/badge/ztxtech-tgoet-%23121011?logo=github&logoColor=white)](https://github.com/ztxtech/tgoet)
+- ![Static Badge](https://img.shields.io/badge/Applied_Mathematical_Modelling_2025-D8B126) [Variance of belief information](https://www.sciencedirect.com/science/article/pii/S0307904X25002239/), Xingyuan Chen, **Tianxiang Zhan**, Guohui Zhou, and Yong Deng.
+- ![Static Badge](https://img.shields.io/badge/IEEE_Sensors_Journal_2025-14303E) [Learnable wsn deployment of evidential collaborative sensing model](https://ieeexplore.ieee.org/abstract/document/10981520/), Ruijie Liu, **Tianxiang Zhan**, Zhen Li, and Yong Deng.
+- ![Static Badge](https://img.shields.io/badge/Pattern_Recognition_2025-F58220) [Co-evidential fusion with information volume for semi-supervised medical image segmentation](https://www.sciencedirect.com/science/article/pii/S0031320325002997), Yuanpeng He, Lijian Li, **Tianxiang Zhan**, Chi-Man Pun, Wenpin Jiao, and Zhi Jin. ![Static Badge](https://img.shields.io/badge/CCF_B-F08122)
+- ![Static Badge](https://img.shields.io/badge/Pattern_Recognition_2024-F58220) [Residual feature-reutilization inception network](https://www.sciencedirect.com/science/article/pii/S0031320324001900/), Yuanpeng He, Wenjie Song, Lijian Li, **Tianxiang Zhan**, and Wenpin Jiao. ![Static Badge](https://img.shields.io/badge/CCF_B-F08122)
+- ![Static Badge](https://img.shields.io/badge/Pattern_Recognition_2024-F58220) [A novel weighted approach for time series forecasting based on visibility graph](https://www.sciencedirect.com/science/article/pii/S0031320324004710/), **Tianxiang Zhan**, and Fuyuan Xiao. ![Static Badge](https://img.shields.io/badge/CCF_B-F08122)
+- ![Static Badge](https://img.shields.io/badge/ICASSP_2024-14303E) [Generalized uncertainty-based evidential fusion with hybrid multi-head attention for weak-supervised temporal action localization](https://ieeexplore.ieee.org/abstract/document/10446799/), Yuanpeng He, Lijian Li, **Tianxiang Zhan**, Wenpin Jiao, and Chi-Man Pun. ![Static Badge](https://img.shields.io/badge/CCF_B-F08122)
+
+- ![Static Badge](https://img.shields.io/badge/International_Journal_of_Intelligent_Systems_2021-005A90) [A fast evidential approach for stock forecasting](https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22598/), **Tianxiang Zhan**, and Fuyuan Xiao. ![Static Badge](https://img.shields.io/badge/CCF_C-00843D)
 
 ## 📷 Preprints
 
