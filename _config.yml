@@ -8,7 +8,7 @@
 # Site Settings
 title: "Tianxiang Zhan"
 description: "Explore the secrets of time."
-repository: "ztxtech/page_new"
+repository: "ztxtech/ztxtech.github.io"
 google_scholar_stats_use_cdn: true
 
 # google analytics
@@ -45,7 +45,7 @@ author:
   lastfm:
   linkedin: "ztxtech"
   dblp: # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid: # e.g., "https://orcid.org/xxxx"
+  orcid: "https://orcid.org/0000-0002-5188-0381"
   pinterest:
   soundcloud:
   stackoverflow: # http://stackoverflow.com/users/123456/username
