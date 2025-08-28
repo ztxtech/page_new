@@ -11,7 +11,7 @@
 
 IEEE Transactions on Pattern Analysis and Machine Intelligence (2025).
 
-[[Code]](https://github.com/ztxtech/Time-Evidence-Fusion-Network)
+[![Code](https://img.shields.io/badge/ztxtech-Time--Evidence--Fusion--Network-%23121011?logo=github&logoColor=white)](https://github.com/ztxtech/Time-Evidence-Fusion-Network)
 
 </div>
 </div>
@@ -25,7 +25,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (2025).
 
 arXiv preprint arXiv:2506.14790 (2025).
 
-[[Code]](https://github.com/ztxtech/cep_ts)
+[![Code](https://img.shields.io/badge/ztxtech-cep__ts-%23121011?logo=github&logoColor=white)](https://github.com/ztxtech/cep_ts)
 
 </div>
 </div>
