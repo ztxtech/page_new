@@ -103,12 +103,25 @@ Zhan, Tianxiang, Yuanpeng He, Yong Deng, and Zhen Li. "Differential convolutiona
 
 - Chen, Xingyuan, Tianxiang Zhan, Guohui Zhou, and Yong Deng. "Variance of belief information." Applied Mathematical Modelling 146 (2025): 116148. [[Link]](https://www.sciencedirect.com/science/article/pii/S0307904X25002239/)
 - Liu, Ruijie, Tianxiang Zhan, Zhen Li, and Yong Deng. "Learnable wsn deployment of evidential collaborative sensing model." IEEE Sensors Journal (2025). [[Link]](https://ieeexplore.ieee.org/abstract/document/10981520/)
+- He, Yuanpeng, Lijian Li, Tianxiang Zhan, Chi-Man Pun, Wenpin Jiao, and Zhi Jin. "Co-evidential fusion with information volume for semi-supervised medical image segmentation." Pattern Recognition 166 (2025): 111639.
 - He, Yuanpeng, Wenjie Song, Lijian Li, Tianxiang Zhan, and Wenpin Jiao. "Residual feature-reutilization inception network." Pattern Recognition 152 (2024): 110439. [[Link]](https://www.sciencedirect.com/science/article/pii/S0031320324001900/)
-- He, Yuanpeng, Lijian Li, Tianxiang Zhan, Wenpin Jiao, and Chi-Man Pun. "Generalized uncertainty-based evidential fusion with hybrid multi-head attention for weak-supervised temporal action localization." In ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 3855-3859. IEEE, 2024. [[Link]](https://ieeexplore.ieee.org/abstract/document/10446799/)
 - Zhan, Tianxiang, and Fuyuan Xiao. "A novel weighted approach for time series forecasting based on visibility graph." Pattern Recognition 155 (2024): 110720. [[Link]](https://www.sciencedirect.com/science/article/pii/S0031320324004710/)
+- He, Yuanpeng, Lijian Li, Tianxiang Zhan, Wenpin Jiao, and Chi-Man Pun. "Generalized uncertainty-based evidential fusion with hybrid multi-head attention for weak-supervised temporal action localization." In ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 3855-3859. IEEE, 2024. [[Link]](https://ieeexplore.ieee.org/abstract/document/10446799/)
 - Zhan, Tianxiang, and Fuyuan Xiao. "A fast evidential approach for stock forecasting." International Journal of Intelligent Systems 36, no. 12 (2021): 7544-7562. [[Link]](https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22598/)
 
 ## 📷 Preprints
+
+- He, Yuanpeng, Lijian Li, Tianxiang Zhan, Chi-Man Pun, Wenpin Jiao, and Zhi Jin. 2025. “Co-Evidential Fusion with Information Volume for Medical Image Segmentation.” Arxiv Preprint Arxiv:2506.02492.
+- He, Yuanpeng, Wenjie Song, Lijian Li, Tianxiang Zhan, and Wenpin Jiao. 2024. “Residual Feature-Reutilization Inception Network for Image Classification.” Arxiv Preprint Arxiv:2412.19433.
+- Xu, Juntao, Tianxiang Zhan, and Yong Deng. 2024b. “Reliability Assessment of Information Sources Based on Random Permutation Set.” Arxiv Preprint Arxiv:2410.22772.
+- Xu, Juntao, Tianxiang Zhan, and Yong Deng. 2024a. “Evaluating Evidential Reliability in Pattern Recognition Based on Intuitionistic Fuzzy Sets.” Arxiv Preprint Arxiv:2411.00848.
+- Zhou, Qianli, Tianxiang Zhan, and Yong Deng. 2024. “Isopignistic Canonical Decomposition via Belief Evolution Network.” Arxiv Preprint Arxiv:2405.02653.
+- Zhan, Tianxiang, Zhen Li, and Yong Deng. 2024. “Random Graph Set and Evidence Pattern Reasoning Model.” Arxiv Preprint Arxiv:2402.13058.
+- Zhan, Tianxiang, Yuanpeng He, Hanwen Li, and Fuyuan Xiao. 2021b. “Uncertainty Measurement of Basic Probability Assignment Integrity Based on Approximate Entropy in Evidence Theory.” Arxiv Preprint Arxiv:2105.07382.
+- Zhan, Tianxiang, Yuanpeng He, and Fuyuan Xiao. 2021b. “Quantum Soft Likelihood Function Based on Ordered Weighted Average Operator.” Arxiv Preprint Arxiv:2105.00818.
+- He, Yuanpeng, Lijian Li, and Tianxiang Zhan. 2021. “A Matrix-Based Distance of Pythagorean Fuzzy Set and Its Application in Medical Diagnosis.” Arxiv Preprint Arxiv:2102.01538.
+- Zhan, Tianxiang, Yuanpeng He, and Fuyuan Xiao. 2021a. “Construction Cost Index Forecasting: A Multi-Feature Fusion Approach.” Arxiv Preprint Arxiv:2108.10155.
+- Zhan, Tianxiang, Yuanpeng He, Hanwen Li, and Fuyuan Xiao. 2021a. “DVS: Deep Visibility Series and Its Application in Construction Cost Index Forecasting.” Arxiv Preprint Arxiv:2111.04071.
 
 <!-- - [Tianxiang Zhan dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
