@@ -56,25 +56,25 @@ Zhan, Tianxiang, Yuanpeng He, Yong Deng, and Zhen Li. "Differential convolutiona
 
 ## 😁 Other Publications
 
-- Zhan, Tianxiang, Qianzhou Zhou, Yuanpeng He, and Yong Deng. "Transfer Graph in the Context of Evidence Theory." Computational and Applied Mathematics 44, no. 7 (2025): 345. [[Link]](https://link.springer.com/article/10.1007/s40314-025-03293-w/)[[Code]](https://github.com/ztxtech/tgoet)
-- Chen, Xingyuan, Tianxiang Zhan, Guohui Zhou, and Yong Deng. "Variance of belief information." Applied Mathematical Modelling 146 (2025): 116148. [[Link]](https://www.sciencedirect.com/science/article/pii/S0307904X25002239/)
-- Liu, Ruijie, Tianxiang Zhan, Zhen Li, and Yong Deng. "Learnable wsn deployment of evidential collaborative sensing model." IEEE Sensors Journal (2025). [[Link]](https://ieeexplore.ieee.org/abstract/document/10981520/)
-- He, Yuanpeng, Lijian Li, Tianxiang Zhan, Chi-Man Pun, Wenpin Jiao, and Zhi Jin. "Co-evidential fusion with information volume for semi-supervised medical image segmentation." Pattern Recognition 166 (2025): 111639.
-- He, Yuanpeng, Wenjie Song, Lijian Li, Tianxiang Zhan, and Wenpin Jiao. "Residual feature-reutilization inception network." Pattern Recognition 152 (2024): 110439. [[Link]](https://www.sciencedirect.com/science/article/pii/S0031320324001900/)
-- Zhan, Tianxiang, and Fuyuan Xiao. "A novel weighted approach for time series forecasting based on visibility graph." Pattern Recognition 155 (2024): 110720. [[Link]](https://www.sciencedirect.com/science/article/pii/S0031320324004710/)
-- He, Yuanpeng, Lijian Li, Tianxiang Zhan, Wenpin Jiao, and Chi-Man Pun. "Generalized uncertainty-based evidential fusion with hybrid multi-head attention for weak-supervised temporal action localization." In ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 3855-3859. IEEE, 2024. [[Link]](https://ieeexplore.ieee.org/abstract/document/10446799/)
-- Zhan, Tianxiang, and Fuyuan Xiao. "A fast evidential approach for stock forecasting." International Journal of Intelligent Systems 36, no. 12 (2021): 7544-7562. [[Link]](https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22598/)
+- `Computational and Applied Mathematics 2025` [Transfer Graph in the Context of Evidence Theory](https://link.springer.com/article/10.1007/s40314-025-03293-w/), Qianzhou Zhou, Yuanpeng He, **Tianxiang Zhan**, and Yong Deng. [![GitHub stars](https://img.shields.io/github/stars/ztxtech/tgoet?style=social&label=Code+Stars)](https://github.com/ztxtech/tgoet)
+- `Applied Mathematical Modelling 2025` [Variance of belief information](https://www.sciencedirect.com/science/article/pii/S0307904X25002239/), Xingyuan Chen, **Tianxiang Zhan**, Guohui Zhou, and Yong Deng.
+- `IEEE Sensors Journal 2025` [Learnable wsn deployment of evidential collaborative sensing model](https://ieeexplore.ieee.org/abstract/document/10981520/), Ruijie Liu, **Tianxiang Zhan**, Zhen Li, and Yong Deng.
+- `Pattern Recognition 2025` [Co-evidential fusion with information volume for semi-supervised medical image segmentation](), Yuanpeng He, Lijian Li, **Tianxiang Zhan**, Chi-Man Pun, Wenpin Jiao, and Zhi Jin.
+- `Pattern Recognition 2024` [Residual feature-reutilization inception network](https://www.sciencedirect.com/science/article/pii/S0031320324001900/), Yuanpeng He, Wenjie Song, Lijian Li, **Tianxiang Zhan**, and Wenpin Jiao.
+- `Pattern Recognition 2024` [A novel weighted approach for time series forecasting based on visibility graph](https://www.sciencedirect.com/science/article/pii/S0031320324004710/), **Tianxiang Zhan**, and Fuyuan Xiao.
+- `ICASSP 2024` [Generalized uncertainty-based evidential fusion with hybrid multi-head attention for weak-supervised temporal action localization](https://ieeexplore.ieee.org/abstract/document/10446799/), Yuanpeng He, Lijian Li, **Tianxiang Zhan**, Wenpin Jiao, and Chi-Man Pun.
+- `International Journal of Intelligent Systems 2021` [A fast evidential approach for stock forecasting](https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22598/), **Tianxiang Zhan**, and Fuyuan Xiao.
 
 ## 📷 Preprints
 
-- He, Yuanpeng, Lijian Li, Tianxiang Zhan, Chi-Man Pun, Wenpin Jiao, and Zhi Jin. 2025. “Co-Evidential Fusion with Information Volume for Medical Image Segmentation.” Arxiv Preprint Arxiv:2506.02492.
-- He, Yuanpeng, Wenjie Song, Lijian Li, Tianxiang Zhan, and Wenpin Jiao. 2024. “Residual Feature-Reutilization Inception Network for Image Classification.” Arxiv Preprint Arxiv:2412.19433.
-- Xu, Juntao, Tianxiang Zhan, and Yong Deng. 2024b. “Reliability Assessment of Information Sources Based on Random Permutation Set.” Arxiv Preprint Arxiv:2410.22772.
-- Xu, Juntao, Tianxiang Zhan, and Yong Deng. 2024a. “Evaluating Evidential Reliability in Pattern Recognition Based on Intuitionistic Fuzzy Sets.” Arxiv Preprint Arxiv:2411.00848.
-- Zhou, Qianli, Tianxiang Zhan, and Yong Deng. 2024. “Isopignistic Canonical Decomposition via Belief Evolution Network.” Arxiv Preprint Arxiv:2405.02653.
-- Zhan, Tianxiang, Zhen Li, and Yong Deng. 2024. “Random Graph Set and Evidence Pattern Reasoning Model.” Arxiv Preprint Arxiv:2402.13058.
-- Zhan, Tianxiang, Yuanpeng He, Hanwen Li, and Fuyuan Xiao. 2021b. “Uncertainty Measurement of Basic Probability Assignment Integrity Based on Approximate Entropy in Evidence Theory.” Arxiv Preprint Arxiv:2105.07382.
-- Zhan, Tianxiang, Yuanpeng He, and Fuyuan Xiao. 2021b. “Quantum Soft Likelihood Function Based on Ordered Weighted Average Operator.” Arxiv Preprint Arxiv:2105.00818.
-- He, Yuanpeng, Lijian Li, and Tianxiang Zhan. 2021. “A Matrix-Based Distance of Pythagorean Fuzzy Set and Its Application in Medical Diagnosis.” Arxiv Preprint Arxiv:2102.01538.
-- Zhan, Tianxiang, Yuanpeng He, and Fuyuan Xiao. 2021a. “Construction Cost Index Forecasting: A Multi-Feature Fusion Approach.” Arxiv Preprint Arxiv:2108.10155.
-- Zhan, Tianxiang, Yuanpeng He, Hanwen Li, and Fuyuan Xiao. 2021a. “DVS: Deep Visibility Series and Its Application in Construction Cost Index Forecasting.” Arxiv Preprint Arxiv:2111.04071.
+- `Arxiv 2025` [Co-Evidential Fusion with Information Volume for Medical Image Segmentation](https://arxiv.org/abs/2506.02492), Yuanpeng He, Lijian Li, **Tianxiang Zhan**, Chi-Man Pun, Wenpin Jiao, and Zhi Jin.
+- `Arxiv 2024` [Residual Feature-Reutilization Inception Network for Image Classification](https://arxiv.org/abs/2412.19433), Yuanpeng He, Wenjie Song, Lijian Li, **Tianxiang Zhan**, and Wenpin Jiao.
+- `Arxiv 2024` [Reliability Assessment of Information Sources Based on Random Permutation Set](https://arxiv.org/abs/2410.22772), Juntao Xu, **Tianxiang Zhan**, and Yong Deng.
+- `Arxiv 2024` [Evaluating Evidential Reliability in Pattern Recognition Based on Intuitionistic Fuzzy Sets](https://arxiv.org/abs/2411.00848), Juntao Xu, **Tianxiang Zhan**, and Yong Deng.
+- `Arxiv 2024` [Isopignistic Canonical Decomposition via Belief Evolution Network](https://arxiv.org/abs/2405.02653), Qianli Zhou, **Tianxiang Zhan**, and Yong Deng.
+- `Arxiv 2024` [Random Graph Set and Evidence Pattern Reasoning Model](https://arxiv.org/abs/2402.13058), **Tianxiang Zhan**, Zhen Li, and Yong Deng.
+- `Arxiv 2021` [Uncertainty Measurement of Basic Probability Assignment Integrity Based on Approximate Entropy in Evidence Theory](https://arxiv.org/abs/2105.07382), **Tianxiang Zhan**, Yuanpeng He, Hanwen Li, and Fuyuan Xiao.
+- `Arxiv 2021` [Quantum Soft Likelihood Function Based on Ordered Weighted Average Operator](https://arxiv.org/abs/2105.00818), **Tianxiang Zhan**, Yuanpeng He, and Fuyuan Xiao.
+- `Arxiv 2021` [A Matrix-Based Distance of Pythagorean Fuzzy Set and Its Application in Medical Diagnosis](https://arxiv.org/abs/2102.01538), Yuanpeng He, Lijian Li, and **Tianxiang Zhan**.
+- `Arxiv 2021` [Construction Cost Index Forecasting: A Multi-Feature Fusion Approach](https://arxiv.org/abs/2108.10155), **Tianxiang Zhan**, Yuanpeng He, and Fuyuan Xiao.
+- `Arxiv 2021` [DVS: Deep Visibility Series and Its Application in Construction Cost Index Forecasting](https://arxiv.org/abs/2111.04071), **Tianxiang Zhan**, Yuanpeng He, Hanwen Li, and Fuyuan Xiao.
