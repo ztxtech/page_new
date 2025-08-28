@@ -1,7 +1,7 @@
 # 📝 Publications
 
-{% include_relative includes/pubs/selected.md %}
+{% include_relative pubs/selected.md %}
 
-{% include_relative includes/pubs/others.md %}
+{% include_relative pubs/others.md %}
 
-{% include_relative includes/pubs/preprint.md %}
+{% include_relative pubs/preprint.md %}
