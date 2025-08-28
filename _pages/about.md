@@ -15,10 +15,10 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-{% include intro.md %}
+{% include_relative includes/intro.md %}
 
-{% include exp.md %}
+{% include_relative includes/exp.md %}
 
-{% include pub.md %}
+{% include_relative includes/pub.md %}
 
-{% include role.md %}
+{% include_relative includes/role.md %}
