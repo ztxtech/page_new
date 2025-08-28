@@ -1,0 +1,9 @@
+## 😁 Other Publications
+
+- Chen, Xingyuan, Tianxiang Zhan, Guohui Zhou, and Yong Deng. "Variance of belief information." Applied Mathematical Modelling 146 (2025): 116148. [[Link]](https://www.sciencedirect.com/science/article/pii/S0307904X25002239/)
+- Liu, Ruijie, Tianxiang Zhan, Zhen Li, and Yong Deng. "Learnable wsn deployment of evidential collaborative sensing model." IEEE Sensors Journal (2025). [[Link]](https://ieeexplore.ieee.org/abstract/document/10981520/)
+- He, Yuanpeng, Lijian Li, Tianxiang Zhan, Chi-Man Pun, Wenpin Jiao, and Zhi Jin. "Co-evidential fusion with information volume for semi-supervised medical image segmentation." Pattern Recognition 166 (2025): 111639.
+- He, Yuanpeng, Wenjie Song, Lijian Li, Tianxiang Zhan, and Wenpin Jiao. "Residual feature-reutilization inception network." Pattern Recognition 152 (2024): 110439. [[Link]](https://www.sciencedirect.com/science/article/pii/S0031320324001900/)
+- Zhan, Tianxiang, and Fuyuan Xiao. "A novel weighted approach for time series forecasting based on visibility graph." Pattern Recognition 155 (2024): 110720. [[Link]](https://www.sciencedirect.com/science/article/pii/S0031320324004710/)
+- He, Yuanpeng, Lijian Li, Tianxiang Zhan, Wenpin Jiao, and Chi-Man Pun. "Generalized uncertainty-based evidential fusion with hybrid multi-head attention for weak-supervised temporal action localization." In ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 3855-3859. IEEE, 2024. [[Link]](https://ieeexplore.ieee.org/abstract/document/10446799/)
+- Zhan, Tianxiang, and Fuyuan Xiao. "A fast evidential approach for stock forecasting." International Journal of Intelligent Systems 36, no. 12 (2021): 7544-7562. [[Link]](https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22598/)
