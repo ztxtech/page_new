@@ -101,8 +101,8 @@ Zhan, Tianxiang, Yuanpeng He, Yong Deng, and Zhen Li. "Differential convolutiona
 
 ## 😁 Other Publications
 
-- Zhan, Tianxiang, and Fuyuan Xiao. "A novel weighted approach for time series forecasting based on visibility graph." Pattern Recognition 155 (2024): 110720.
-- Zhan, Tianxiang, and Fuyuan Xiao. "A fast evidential approach for stock forecasting." International Journal of Intelligent Systems 36, no. 12 (2021): 7544-7562.
+- Zhan, Tianxiang, and Fuyuan Xiao. "A novel weighted approach for time series forecasting based on visibility graph." Pattern Recognition 155 (2024): 110720. [[Link]](https://www.sciencedirect.com/science/article/pii/S0031320324004710/)
+- Zhan, Tianxiang, and Fuyuan Xiao. "A fast evidential approach for stock forecasting." International Journal of Intelligent Systems 36, no. 12 (2021): 7544-7562. [[Link]](https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22598/)
 
 ## 📷 Preprints
 
