@@ -68,7 +68,7 @@ IEEE Transactions on Fuzzy Systems 32, no. 3 (2023): 831-845.
 
 ## 😁 Other Publications
 
-- `Computational and Applied Mathematics 2025` [Transfer Graph in the Context of Evidence Theory](https://link.springer.com/article/10.1007/s40314-025-03293-w/), Qianzhou Zhou, Yuanpeng He, **Tianxiang Zhan**, and Yong Deng. [![Code](https://img.shields.io/badge/ztxtech-tgoet-%23121011?logo=github&logoColor=white)](https://github.com/ztxtech/tgoet)
+- `Computational and Applied Mathematics 2025` [Transfer Graph in the Context of Evidence Theory](https://link.springer.com/article/10.1007/s40314-025-03293-w/), **Tianxiang Zhan**, Qianli Zhou, Yuanpeng He, and Yong Deng. [![Code](https://img.shields.io/badge/ztxtech-tgoet-%23121011?logo=github&logoColor=white)](https://github.com/ztxtech/tgoet)
 - `Applied Mathematical Modelling 2025` [Variance of belief information](https://www.sciencedirect.com/science/article/pii/S0307904X25002239/), Xingyuan Chen, **Tianxiang Zhan**, Guohui Zhou, and Yong Deng.
 - `IEEE Sensors Journal 2025` [Learnable wsn deployment of evidential collaborative sensing model](https://ieeexplore.ieee.org/abstract/document/10981520/), Ruijie Liu, **Tianxiang Zhan**, Zhen Li, and Yong Deng.
 - `Pattern Recognition 2025` [Co-evidential fusion with information volume for semi-supervised medical image segmentation](), Yuanpeng He, Lijian Li, **Tianxiang Zhan**, Chi-Man Pun, Wenpin Jiao, and Zhi Jin.
