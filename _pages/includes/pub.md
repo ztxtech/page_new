@@ -77,7 +77,6 @@ IEEE Transactions on Fuzzy Systems 32, no. 3 (2023): 831-845.
 - ![Static Badge](https://img.shields.io/badge/Pattern_Recognition_2024-F58220) [Residual feature-reutilization inception network](https://www.sciencedirect.com/science/article/pii/S0031320324001900/), Yuanpeng He, Wenjie Song, Lijian Li, **Tianxiang Zhan**, and Wenpin Jiao. ![Static Badge](https://img.shields.io/badge/CCF_B-F08122)
 - ![Static Badge](https://img.shields.io/badge/Pattern_Recognition_2024-F58220) [A novel weighted approach for time series forecasting based on visibility graph](https://www.sciencedirect.com/science/article/pii/S0031320324004710/), **Tianxiang Zhan**, and Fuyuan Xiao. ![Static Badge](https://img.shields.io/badge/CCF_B-F08122)
 - ![Static Badge](https://img.shields.io/badge/ICASSP_2024-14303E) [Generalized uncertainty-based evidential fusion with hybrid multi-head attention for weak-supervised temporal action localization](https://ieeexplore.ieee.org/abstract/document/10446799/), Yuanpeng He, Lijian Li, **Tianxiang Zhan**, Wenpin Jiao, and Chi-Man Pun. ![Static Badge](https://img.shields.io/badge/CCF_B-F08122)
-
 - ![Static Badge](https://img.shields.io/badge/International_Journal_of_Intelligent_Systems_2021-005A90) [A fast evidential approach for stock forecasting](https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22598/), **Tianxiang Zhan**, and Fuyuan Xiao. ![Static Badge](https://img.shields.io/badge/CCF_C-00843D)
 
 ## 📷 Preprints
