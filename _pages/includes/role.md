@@ -18,9 +18,9 @@
 
 # 🧑‍🏫 Mentor Roles
 
-| Name        | Mentorship Year | Previous Institution                          | Graduation Destination |
-| ----------- | --------------- | --------------------------------------------- | ---------------------- |
-| Duozi Lin   | 2024            | University of Science and Technology of China | Zhejiang University    |
-| Mengyu Yang | 2024            | University of Science and Technology of China | -                      |
-| Juntao Xu   | 2024            | University of Science and Technology of China | -                      |
-| Jingyou Wu  | 2023            | University of Science and Technology of China | Zhejiang University    |
+| Name        | Mentorship Year | Previous Institution                                     | Graduation Destination |
+| ----------- | --------------- | -------------------------------------------------------- | ---------------------- |
+| Duozi Lin   | 2024            | University of Electronic Science and Technology of China | Zhejiang University    |
+| Mengyu Yang | 2024            | University of Electronic Science and Technology of China | -                      |
+| Juntao Xu   | 2024            | University of Electronic Science and Technology of China | -                      |
+| Jingyou Wu  | 2023            | University of Electronic Science and Technology of China | Zhejiang University    |
