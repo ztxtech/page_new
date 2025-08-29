@@ -1,4 +1,6 @@
-# 📑 Reviewers
+# ✍🏻 Reviewers
+
+## 🗪 Conference Reviewers
 
 - NeurIPS ![Static Badge](https://img.shields.io/badge/CCF_A-EF413D)
 - ICML ![Static Badge](https://img.shields.io/badge/CCF_A-EF413D)
@@ -6,6 +8,9 @@
 - ICLR
 - ICASSP ![Static Badge](https://img.shields.io/badge/CCF_B-F08122)
 - AISTATS ![Static Badge](https://img.shields.io/badge/CCF_C-00843D)
+
+## 📰 Journal Reviewers
+
 - IEEE Transactions on Knowledge and Data Engineering ![Static Badge](https://img.shields.io/badge/CCF_A-EF413D)
 - ACM Transactions on Intelligent Systems and Technology
 - IEEE Access
