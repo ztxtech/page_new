@@ -5,8 +5,8 @@
 
 # 💻 Internships
 
-- _2024.10 - Now_, Griffith University, Research Intern.
 - _2025.07 - Now_, PyPOTS, Research Fellow.
+- _2024.10 - Now_, Griffith University, Research Intern.
 - _2024.04 - 2025.06_, PyPOTS, Community Scholars.
 - _2024.03 - Now_, University of Macau, Research Intern.
 - _2022.09 - Now_, Chongqing University, Research Intern.
