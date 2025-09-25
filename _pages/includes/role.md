@@ -25,7 +25,7 @@
 | Mengyu Yang | 2024            | University of Electronic Science and Technology of China | -                      |
 | Duozi Lin   | 2024            | University of Electronic Science and Technology of China | Zhejiang University    |
 
-# My collaborator
+# 🤝 My collaborator
 
 | Name          | Institution                                              |
 | ------------- | -------------------------------------------------------- |
