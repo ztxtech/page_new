@@ -1,7 +1,7 @@
 # 📖 Educations
 
-- _2023.09 - 2026.06 (now)_, Master's Degree, University of Electronic Science and Technology of China, Computer Science.
-- _2019.09 - 2023.06_, Bachelor‘s Degree, Southwest University (China), Software Engineering
+- _2023.09 - 2026.06 (now)_, Master's Degree, University of Electronic Science and Technology of China, Computer Science. **Mentor**: _Yong Deng_
+- _2019.09 - 2023.06_, Bachelor‘s Degree, Southwest University (China), Software Engineering. **Mentor**: _Fuyuan Xiao_
 
 # 💻 Internships
 
