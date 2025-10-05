@@ -49,15 +49,15 @@
 }
 
 .page__content {
-  #about-me {
+  #about-me{
     margin-top: -10em;
-    &:before {
-      content: "";
-      display: block;
-      position: relative;
-      width: 0;
-      height: 10em;
-      margin-top: -10em;
+      &:before { 
+        content: ''; 
+        display: block; 
+        position: relative; 
+        width: 0; 
+        height: 10em; 
+        margin-top: -10em;
     }
   }
   h1 {
@@ -66,9 +66,7 @@
     border-bottom: 1px solid $border-color;
   }
 
-  p,
-  li,
-  dl {
+  p, li, dl {
     font-size: 1em;
   }
 
@@ -233,6 +231,7 @@
   text-transform: uppercase;
 }
 
+
 /*
    Page meta
    ========================================================================== */
@@ -257,6 +256,7 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
 
 /*
    Page taxonomy
@@ -286,6 +286,7 @@
     color: $link-color-hover;
   }
 }
+
 
 /*
    Comments
@@ -381,6 +382,7 @@
     text-decoration: none;
   }
 }
+
 
 /*
    Related
