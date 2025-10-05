@@ -27,13 +27,13 @@
 
 # 🤝 My collaborator
 
-| Name                                              | Institution                                                                                    |
-| ------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| Yuanpeng He                                       | [Peking University](https://www.pku.edu.cn/)                                                   |
-| Lijian Li                                         | [University of Macau](https://www.um.edu.mo/)                                                  |
-| Zhen Li                                           | [China Mobile](https://www.chinamobileltd.com/)                                                |
-| [Qianli Zhou](https://noah199711.github.io/)      | [Northwestern Polytechnical University](https://www.nwpu.edu.cn/)                              |
-| [Minxin Wang](https://gewu-lab.github.io/member/) | [GeWu-Lab](https://gewu-lab.github.io/), [Renmin University of China](https://www.ruc.edu.cn/) |
-| Xingyuan Chen                                     | [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/)          |
-| Ruijie Liu                                        | [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/)          |
-| Binkai Liu                                        | [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/)          |
+| Name                                               | Institution                                                                                    |
+| -------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| Yuanpeng He                                        | [Peking University](https://www.pku.edu.cn/)                                                   |
+| Lijian Li                                          | [University of Macau](https://www.um.edu.mo/)                                                  |
+| Zhen Li                                            | [China Mobile](https://www.chinamobileltd.com/)                                                |
+| [Qianli Zhou](https://noah199711.github.io/)       | [Northwestern Polytechnical University](https://www.nwpu.edu.cn/)                              |
+| [Mingxin Wang](https://gewu-lab.github.io/member/) | [GeWu-Lab](https://gewu-lab.github.io/), [Renmin University of China](https://www.ruc.edu.cn/) |
+| Xingyuan Chen                                      | [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/)          |
+| Ruijie Liu                                         | [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/)          |
+| Binkai Liu                                         | [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/)          |
