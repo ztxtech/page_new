@@ -29,7 +29,7 @@
 
 | Name                                               | Institution                                                                                    |
 | -------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| Yuanpeng He                                        | [Peking University](https://www.pku.edu.cn/)                                                   |
+| [Yuanpeng He](https://www.hyppyh.top/)             | [Peking University](https://www.pku.edu.cn/)                                                   |
 | Lijian Li                                          | [University of Macau](https://www.um.edu.mo/)                                                  |
 | Zhen Li                                            | [China Mobile](https://www.chinamobileltd.com/)                                                |
 | [Qianli Zhou](https://noah199711.github.io/)       | [Northwestern Polytechnical University](https://www.nwpu.edu.cn/)                              |
