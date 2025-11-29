@@ -35,28 +35,29 @@ author:
   codepen:
   dribbble:
   flickr:
-  facebook:
+  facebook: "ztxtechnology"
   foursquare:
   github: "ztxtech"
   google_plus:
   keybase:
-  instagram:
+  instagram: "ztxtech"
   impactstory: # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
   linkedin: "ztxtech"
-  dblp: # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  dblp: "https://dblp.org/pid/289/0349.html"
   orcid: "https://orcid.org/0000-0002-5188-0381"
   pinterest:
   soundcloud:
   stackoverflow: # http://stackoverflow.com/users/123456/username
   steam:
   tumblr:
-  twitter:
+  x: "ztxtechnology"
   vine:
   weibo:
   xing:
   youtube:
   wikipedia:
+  bluesky: "https://bsky.app/profile/ztxtech.bsky.social"
 
 # Reading Files
 include:
