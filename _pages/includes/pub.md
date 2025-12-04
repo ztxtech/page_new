@@ -78,6 +78,7 @@ IEEE Transactions on Fuzzy Systems 32, no. 3 (2023): 831-845.
 
 ## 😁 Other Publications
 
+- ![Static Badge](https://img.shields.io/badge/%20Information_Sciences_2025-E87224) [Central moments of belief information](https://doi.org/10.1016/j.ins.2025.122951), Xingyuan Chen, Duozi Lin, **Tianxiang Zhan**, Yong Deng [![Code](https://img.shields.io/badge/ztxtech-cep__ts-%23121011?logo=github&logoColor=white)](https://github.com/ztxtech/mass_cf)
 - ![Static Badge](https://img.shields.io/badge/%20International_Journal_of_Fuzzy_Systems_2025-C3CDE7) [Evaluating Evidential Reliability in Pattern Recognition Based on Intuitionistic Fuzzy Sets](https://link.springer.com/article/10.1007/s40815-025-02117-7/), Juntao Xu, **Tianxiang Zhan**, and Yong Deng.
 - ![Static Badge](https://img.shields.io/badge/Computational_and_Applied_Mathematics_2025-FED000) [Transfer Graph in the Context of Evidence Theory](https://link.springer.com/article/10.1007/s40314-025-03293-w/), **Tianxiang Zhan**, Qianli Zhou, Yuanpeng He, and Yong Deng. [![Code](https://img.shields.io/badge/ztxtech-tgoet-%23121011?logo=github&logoColor=white)](https://github.com/ztxtech/tgoet)
 - ![Static Badge](https://img.shields.io/badge/Applied_Mathematical_Modelling_2025-D8B126) [Variance of belief information](https://www.sciencedirect.com/science/article/pii/S0307904X25002239/), Xingyuan Chen, **Tianxiang Zhan**, Guohui Zhou, and Yong Deng.
