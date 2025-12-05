@@ -1,7 +1,9 @@
-# 😊 About Me
+# 👋 Hello, I'm Tianxiang
 
-Greetings, I am currently pursuing a Master's degree at the University of Electronic Science and Technology of China, with an anticipated graduation date of `June 2026`. My research focuses on the fields of **time series analysis, statistical physics, information theory, and uncertainty theory**. I am deeply passionate about exploring the intersections within these disciplines and addressing the complex challenges they present.
+## 🎓 **Academic Background & Research Interests**
 
-I am actively _seeking a **fully-funded Ph.D. position** in Computer Science_, where I hope to join a vibrant research community and collaborate with like-minded scholars in pushing the boundaries of scientific knowledge. If my research interests align with yours, or if you see potential for a research collaboration, please feel free to reach out to me via email.
+I am currently a Master student at the University of Electronic Science and Technology of China. I expect to graduate in June 2026. My research interest mainly centers on **Time Series Analysis**. I pay close attention to **Foundation Models** and **Representation Learning**. I try to understand the intrinsic nature of data through **Statistical Physics** and **Information Theory**. I also work on **Uncertainty Theory** to make models more reliable. I believe that a good model should handle data noise and concept drift well. I aim to solve real world problems with robust algorithms 🚀.
 
-I look forward to connecting with you and am excited about the prospect of collectively advancing the field of science.
+## 🌟 **Experience & Future Goal**
+
+I also care about how to use these methods in specific domains. I have strong interests in **Spatio-temporal Data** and **Medical Healthcare** and **Quantitative Finance**. I have worked as a research intern at **Griffith University** and **University of Macau**. I also serve as a research fellow at **[PyPOTS](https://pypots.com/)** because I enjoy coding and sharing [my code 💻](https://github.com/ztxtech/). I am now actively looking for a **Fully Funded Ph.D. Position**. I hope to join a team where I can continue my research on time series. Please feel free to contact me via email if you are interested in my profile 📧.
